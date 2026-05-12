@@ -1,0 +1,69 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области разрабатываемой системы}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Особенности предметной области и назначение разрабатываемого web-сервиса}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Анализ существующих проблем при ручной организации записи на услуги}{7}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Причины необходимости разработки автоматизированного решения}{9}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Сравнительный анализ существующих интернет-сервисов в рассматриваемой области}{10}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Анализ возможностей сервиса YCLIENTS}{11}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Анализ возможностей платформы Профи.ру}{12}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Анализ возможностей сервиса YouDo}{12}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Итоги анализа существующих решений}{13}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Определение основных задач разработки}{14}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Техническое задание}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{15}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к функциональности}{16}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Требования к интерфейсу}{18}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Моделирование вариантов использования}{20}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Вариант использования «Вход в систему»}{24}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Вариант использования «Выход из системы»}{25}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Вариант использования «Регистрация пользователя»}{25}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Вариант использования «Просмотр каталога услуг»}{26}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Вариант использования «Поиск услуг по параметрам и доступным датам»}{27}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Вариант использования «Просмотр страницы услуги»}{27}{subsubsection.2.5.6}%
+\contentsline {subsubsection}{\numberline {2.5.7}Вариант использования «Просмотр изображений услуги»}{28}{subsubsection.2.5.7}%
+\contentsline {subsubsection}{\numberline {2.5.8}Вариант использования «Добавление услуги в избранное»}{28}{subsubsection.2.5.8}%
+\contentsline {subsubsection}{\numberline {2.5.9}Вариант использования «Просмотр избранных услуг»}{29}{subsubsection.2.5.9}%
+\contentsline {subsubsection}{\numberline {2.5.10}Вариант использования «Создание бронирования»}{29}{subsubsection.2.5.10}%
+\contentsline {subsubsection}{\numberline {2.5.11}Вариант использования «Просмотр своих бронирований»}{30}{subsubsection.2.5.11}%
+\contentsline {subsubsection}{\numberline {2.5.12}Вариант использования «Отмена бронирования заказчиком»}{30}{subsubsection.2.5.12}%
+\contentsline {subsubsection}{\numberline {2.5.13}Вариант использования «Создание услуги исполнителем»}{31}{subsubsection.2.5.13}%
+\contentsline {subsubsection}{\numberline {2.5.14}Вариант использования «Редактирование услуги исполнителем»}{31}{subsubsection.2.5.14}%
+\contentsline {subsubsection}{\numberline {2.5.15}Вариант использования «Загрузка изображений для услуги»}{32}{subsubsection.2.5.15}%
+\contentsline {subsubsection}{\numberline {2.5.16}Вариант использования «Настройка расписания исполнителя»}{32}{subsubsection.2.5.16}%
+\contentsline {subsubsection}{\numberline {2.5.17}Вариант использования «Указание исключённых дат»}{33}{subsubsection.2.5.17}%
+\contentsline {subsubsection}{\numberline {2.5.18}Вариант использования «Просмотр входящих заявок исполнителем»}{33}{subsubsection.2.5.18}%
+\contentsline {subsubsection}{\numberline {2.5.19}Вариант использования «Подтверждение заявки исполнителем»}{34}{subsubsection.2.5.19}%
+\contentsline {subsubsection}{\numberline {2.5.20}Вариант использования «Отмена заявки исполнителем»}{34}{subsubsection.2.5.20}%
+\contentsline {subsubsection}{\numberline {2.5.21}Вариант использования «Отметка услуги как завершённой»}{35}{subsubsection.2.5.21}%
+\contentsline {subsubsection}{\numberline {2.5.22}Вариант использования «Отметка неявки заказчика»}{35}{subsubsection.2.5.22}%
+\contentsline {subsubsection}{\numberline {2.5.23}Вариант использования «Переписка по заявке»}{35}{subsubsection.2.5.23}%
+\contentsline {subsubsection}{\numberline {2.5.24}Вариант использования «Отправка изображения в чат»}{36}{subsubsection.2.5.24}%
+\contentsline {subsubsection}{\numberline {2.5.25}Вариант использования «Оставление отзыва после завершения услуги»}{36}{subsubsection.2.5.25}%
+\contentsline {subsubsection}{\numberline {2.5.26}Вариант использования «Редактирование профиля пользователя»}{37}{subsubsection.2.5.26}%
+\contentsline {subsection}{\numberline {2.6}Требования к надёжности}{38}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Требования к информационной безопасности}{39}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Требования к программной и технической совместимости}{40}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Требования к оформлению документации}{42}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Технический проект}{43}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика проектного решения}{43}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Выбор средств и технологий реализации}{44}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Состав применяемого технологического стека}{45}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Серверный язык программирования PHP}{45}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Клиентские web-технологии}{46}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Система управления базами данных MySQL}{47}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Средство администрирования базы данных phpMyAdmin}{47}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Web-сервер Apache и локальная среда Open Server Panel}{48}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}Архитектурное построение web-сервиса}{48}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Компоненты уровня пользовательского интерфейса}{50}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Компоненты уровня серверной логики}{52}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Компоненты уровня доступа к данным}{54}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Компоненты уровня хранения файлов}{56}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Диаграмма последовательности обработки запроса}{57}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Форматы данных}{58}{subsubsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.4}Проект базы данных web-сервиса}{58}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}ER-модель данных}{58}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Нормализация данных}{60}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Реляционная модель данных}{61}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Описание структуры базы данных}{62}{subsubsection.3.4.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{73}{table.15}%
